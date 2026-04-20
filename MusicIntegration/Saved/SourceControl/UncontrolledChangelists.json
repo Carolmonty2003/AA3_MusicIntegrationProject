@@ -5,6 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/estudiooos/Repositorios/AA3_MusicIntegrationProject/MusicIntegration/Content/Player/BP_FirstPersonPlayer.uasset",
+				"D:/estudiooos/Repositorios/AA3_MusicIntegrationProject/MusicIntegration/Content/Player/BP_MyGameMode.uasset",
+				"D:/estudiooos/Repositorios/AA3_MusicIntegrationProject/MusicIntegration/Content/Player/Actions/IA_Jump.uasset",
+				"D:/estudiooos/Repositorios/AA3_MusicIntegrationProject/MusicIntegration/Content/Player/IMC_Default.uasset",
+				"D:/estudiooos/Repositorios/AA3_MusicIntegrationProject/MusicIntegration/Content/Player/Actions/IA_Look.uasset",
+				"D:/estudiooos/Repositorios/AA3_MusicIntegrationProject/MusicIntegration/Content/Player/Actions/IA_Move.uasset",
+				"D:/estudiooos/Repositorios/AA3_MusicIntegrationProject/MusicIntegration/Content/Scene/map_dungeon_level_5_bossroom.umap",
+				"D:/estudiooos/Repositorios/AA3_MusicIntegrationProject/MusicIntegration/Content/Scene/map_dungeon_level_5_bossroom_BuiltData.uasset",
+				"D:/estudiooos/Repositorios/AA3_MusicIntegrationProject/MusicIntegration/Content/Fantastic_Dungeon_Pack/blueprints/modular/comps/gateway/BP_COMP_Door_01_large.uasset",
 				"D:/estudiooos/Repositorios/AA3_MusicIntegrationProject/MusicIntegration/Content/Scene/map_dungeon_level_1_dungeon.umap",
 				"D:/estudiooos/Repositorios/AA3_MusicIntegrationProject/MusicIntegration/Content/Scene/map_dungeon_level_1_dungeon_BuiltData.uasset"
 			]
